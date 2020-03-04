@@ -1,4 +1,4 @@
 * books
 * manga
-  * anything fantasy
-  * action packed
+  **anything fantasy
+  **action packed
